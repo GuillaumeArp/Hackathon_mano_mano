@@ -1,3 +1,0 @@
-QUESTIONS :
-Comment est calculé le score ? à partir du NPS ? 
-Plus value par rapport à leur data analysts?
