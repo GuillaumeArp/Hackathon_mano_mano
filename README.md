@@ -8,7 +8,12 @@ The project file can there be imported using the zip file available.
 
 Please note that this requires an active Dataiku subscription (there are 14 days trials available), and to import Time Series module.
 
-Video presentation can be watched [on this page](https://www.loom.com/share/9566b99c776b4e89a4b89455dcf16917).
+-----
+
+The video presentation can be watched right here:
+
+https://user-images.githubusercontent.com/48798757/168600788-cc4bbbb6-13c0-4be7-a3b8-7c7851225194.mp4
+
 
 ------
 
