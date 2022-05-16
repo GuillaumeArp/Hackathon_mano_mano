@@ -13,3 +13,10 @@ Video presentation can be watched [on this page](https://www.loom.com/share/9566
 ------
 
 ### This project won 1st place in the Data category of the 2022 ManoMano Hackathon!
+
+The Dato Dato team members were:
+- [Alexandra Houssin](https://github.com/alexandrahoussin)
+- [Aline Dubuy](https://github.com/aline-dubuy)
+- [Aurore Lemaître](https://github.com/ALEMA86)
+- [Guillaume Arp](https://github.com/GuillaumeArp)
+- Stéphane Essouman
