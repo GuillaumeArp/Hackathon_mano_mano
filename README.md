@@ -24,4 +24,4 @@ The Dato Dato team members were:
 - [Aline Dubuy](https://github.com/aline-dubuy)
 - [Aurore Lemaître](https://github.com/ALEMA86)
 - [Guillaume Arp](https://github.com/GuillaumeArp)
-- Stéphane Essouman
+- [Stéphane Essouman](https://github.com/Liostephe)
